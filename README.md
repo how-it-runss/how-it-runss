@@ -1,16 +1,39 @@
-## Hi there 👋
+# How It Runss 🚀
 
-<!--
-**how-it-runss/how-it-runss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Figure It Out. Make It Better.**
 
-Here are some ideas to get you started:
+Welcome to **How It Runss** — a hands-on engineering journey focused on understanding how real-world technology systems work, how they fail, and how we make them better.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧭 What I Explore
+
+- 🐧 Linux & System Administration
+- 🌐 Networking & Internet Fundamentals
+- ☁️ AWS & Cloud Infrastructure
+- 🐳 Docker & Containers
+- 🏗️ Terraform & Infrastructure as Code
+- ⚙️ Ansible & Automation
+- 🔄 CI/CD & DevOps
+- ☸️ Kubernetes & Container Orchestration
+- 🚀 GitOps & Platform Engineering
+- 📊 SRE & Observability
+- 🔐 DevSecOps & Cloud Security
+- 🏦 FinTech Engineering
+- 🤖 GenAI for DevOps
+- 🐍 Python & Engineering Automation
+
+## 🛠️ How I Learn
+
+```text
+LEARN
+   ↓
+LAB
+   ↓
+BUILD
+   ↓
+TROUBLESHOOT
+   ↓
+DOCUMENT
+   ↓
+TEACH
+   ↓
+IMPROVE
